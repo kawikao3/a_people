@@ -12,7 +12,7 @@ node() {
         env.GCE_PROJECT_ID="green-entity-167900"
         env.GCE_DEFAULT_ZONE="us-west1-a"
         env.GCE_SOURCE_IMAGE_FAMILY="ubuntu-1704"
-        env.GCE_IMAGE_FAMILY="web_people"
+        env.GCE_IMAGE_FAMILY="a-com-people"
         env.PACKER_LOG=0
     }
 
